@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Boot_Shop/static/css/main.e6b765b4.css",
-    "main.js": "/Boot_Shop/static/js/main.a33e813f.js",
-    "static/media/cart-shopping-solid.svg": "/Boot_Shop/static/media/cart-shopping-solid.27ffcd49ca8afaba319d03e5758b8670.svg",
-    "index.html": "/Boot_Shop/index.html",
-    "static/media/xmark-solid.svg": "/Boot_Shop/static/media/xmark-solid.6837248f26b4746bca22dce7c606b744.svg",
-    "static/media/bars-solid.svg": "/Boot_Shop/static/media/bars-solid.4de0b64b468d9cdbdd41f4d490765099.svg",
-    "main.e6b765b4.css.map": "/Boot_Shop/static/css/main.e6b765b4.css.map",
-    "main.a33e813f.js.map": "/Boot_Shop/static/js/main.a33e813f.js.map"
+    "main.css": "/Boot_Shop_React/static/css/main.e6b765b4.css",
+    "main.js": "/Boot_Shop_React/static/js/main.b505aada.js",
+    "static/media/cart-shopping-solid.svg": "/Boot_Shop_React/static/media/cart-shopping-solid.27ffcd49ca8afaba319d03e5758b8670.svg",
+    "index.html": "/Boot_Shop_React/index.html",
+    "static/media/xmark-solid.svg": "/Boot_Shop_React/static/media/xmark-solid.6837248f26b4746bca22dce7c606b744.svg",
+    "static/media/bars-solid.svg": "/Boot_Shop_React/static/media/bars-solid.4de0b64b468d9cdbdd41f4d490765099.svg",
+    "main.e6b765b4.css.map": "/Boot_Shop_React/static/css/main.e6b765b4.css.map",
+    "main.b505aada.js.map": "/Boot_Shop_React/static/js/main.b505aada.js.map"
   },
   "entrypoints": [
     "static/css/main.e6b765b4.css",
-    "static/js/main.a33e813f.js"
+    "static/js/main.b505aada.js"
   ]
 }
