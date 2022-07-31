@@ -1,25 +1,42 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter } from 'react-router-dom'
+import Header from './components/Header'
+import Section from './components/Section'
+import { DataProvider } from './components/Context'
+import { routerReducer } from 'react-router-redux'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+
+
+
+class App extends React.Component {
+  render() {
+
+
+    return (
+
+      <DataProvider>
+
+
+        <div className="app">
+
+          <BrowserRouter>
+            <Header />
+            <Section></Section>
+          </BrowserRouter >
+
+
+
+
+
+        </div>
+
+
+      </DataProvider >
+
+
+    );
+  }
 }
 
 export default App;
